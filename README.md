@@ -7,10 +7,9 @@ To access the custom code in Knack follow the instructions below:
 2.	Click on the application named: MIS 374-Allison’s Group and select the builder option
 ![BuilderOption](https://github.com/adityaddepalli/msporeg-allison/blob/main/images/Picture1.png)
 
-![Builder Option] (https://github.com/adityaddepalli/msporeg-allison/blob/main/images/Picture1.png)
-
 3.	Navigate to the gear icon above the pages tab on the top left of the page
 4.	Click on the dropdown arrow and select “API & Code”
- 
+![API&CodeOption](https://github.com/adityaddepalli/msporeg-allison/blob/main/images/Picture2.png)
 
 5.	Select the “Javascript” tab and you will be able to view/edit the custom code
+![JavascriptTab](https://github.com/adityaddepalli/msporeg-allison/blob/main/images/Picture3.png)
