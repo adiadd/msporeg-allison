@@ -2,7 +2,7 @@
 
 This repository houses the code for the custom JavaScript code used in Allison's MSPO Knack application. 
 
-To access the custom code in Knack follow the instructions below:
+## To access the custom code in Knack follow the instructions below:
 1.	Login using the credentials outlined in the guides ___!!!
 2.	Click on the application named: MIS 374-Allison’s Group and select the builder option
 
