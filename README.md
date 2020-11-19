@@ -1,6 +1,7 @@
 # MSPO Knack Custom Code
 
-This repository houses the code for the custom JavaScript code used in Allison's MSPO Knack application. 
+This repository houses the code for the custom JavaScript code used in Allison's MSPO Knack application. To access the code on GitHub click on the file named "customJS.js". This will take you to the file with the code. You can copy that code and paste it into Knack as a backup/reference.
+
 
 ## To access the custom code in Knack follow the instructions below:
 1.	Login using the credentials outlined in the guides ___!!!
