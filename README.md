@@ -17,4 +17,5 @@ This repository houses the code for the custom JavaScript code used in Allison's
 5.	Select the “Javascript” tab and you will be able to view/edit the custom code
 
 ![JavascriptTab](https://github.com/adityaddepalli/msporeg-allison/blob/main/images/Picture3.png)
+
 *The code shown has been updated. To access the newly updated code please click on the file named "customJS.js"*
